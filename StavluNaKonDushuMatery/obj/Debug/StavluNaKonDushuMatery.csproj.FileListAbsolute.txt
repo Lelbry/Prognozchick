@@ -96,3 +96,38 @@ D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuM
 D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.xml
 D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CopyComplete
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe.config
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.pdb
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Buffers.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AngleSharp.xml
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Leaf.xNet.xml
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.MSTSCLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.SystemMonitor.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.WMPLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSHTML.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.WMPLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.AssemblyReference.cache
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.MSTSCLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.SystemMonitor.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.WMPLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSHTML.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.WMPLib.dll
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.ResolveComReference.cache
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Form1.resources
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Properties.Resources.resources
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.GenerateResource.cache
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CoreCompileInputs.cache
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CopyComplete
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb
