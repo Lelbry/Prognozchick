@@ -1,0 +1,98 @@
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe.config
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.pdb
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csprojAssemblyReference.cache
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Form1.resources
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Properties.Resources.resources
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.GenerateResource.cache
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CoreCompileInputs.cache
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.WMPLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.WMPLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.ResolveComReference.cache
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.SystemMonitor.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.SystemMonitor.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.SystemMonitor.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.SystemMonitor.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSHTML.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSHTML.dll
+C:\Users\what-\source\repos\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.AssemblyReference.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSHTML.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.ResolveComReference.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Form1.resources
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Properties.Resources.resources
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.GenerateResource.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CoreCompileInputs.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe.config
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.pdb
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSHTML.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery.zip_pass_123\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe.config
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.pdb
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Interop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSHTML.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AxInterop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.AssemblyReference.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\Interop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSHTML.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.SystemMonitor.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\AxInterop.WMPLib.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.ResolveComReference.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Form1.resources
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Properties.Resources.resources
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.GenerateResource.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CoreCompileInputs.cache
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AngleSharp.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Leaf.xNet.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Buffers.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\AngleSharp.xml
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\Leaf.xNet.xml
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Buffers.xml
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Учёба\Библиотека работ в Visual studio\StavluNaKonDushuMatery\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CopyComplete
