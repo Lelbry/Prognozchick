@@ -28,17 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.AccountH = new System.Windows.Forms.TextBox();
             this.Money = new System.Windows.Forms.Button();
             this.Vivod = new System.Windows.Forms.RichTextBox();
             this.AccountG = new System.Windows.Forms.TextBox();
-            this.Vid = new AxWMPLib.AxWindowsMediaPlayer();
             this.Home = new System.Windows.Forms.Label();
             this.Goest = new System.Windows.Forms.Label();
             this.ColonaA = new System.Windows.Forms.PictureBox();
             this.btn_ProverkaNewForm = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.Vid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ColonaA)).BeginInit();
             this.SuspendLayout();
             // 
@@ -68,7 +65,7 @@
             this.Money.Name = "Money";
             this.Money.Size = new System.Drawing.Size(231, 61);
             this.Money.TabIndex = 1;
-            this.Money.Text = "Ставлю на кон душу матери";
+            this.Money.Text = "Рассчитать ";
             this.Money.UseVisualStyleBackColor = false;
             this.Money.Click += new System.EventHandler(this.DelatDengiBlyatVotTak);
             // 
@@ -93,17 +90,6 @@
             this.AccountG.Size = new System.Drawing.Size(106, 20);
             this.AccountG.TabIndex = 4;
             this.AccountG.TextChanged += new System.EventHandler(this.ControlG);
-            // 
-            // Vid
-            // 
-            this.Vid.Enabled = true;
-            this.Vid.Location = new System.Drawing.Point(633, 47);
-            this.Vid.Margin = new System.Windows.Forms.Padding(2);
-            this.Vid.Name = "Vid";
-            this.Vid.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("Vid.OcxState")));
-            this.Vid.Size = new System.Drawing.Size(342, 238);
-            this.Vid.TabIndex = 5;
-            this.Vid.Visible = false;
             // 
             // Home
             // 
@@ -147,6 +133,7 @@
             this.btn_ProverkaNewForm.TabIndex = 10;
             this.btn_ProverkaNewForm.Text = "Создание новой формы";
             this.btn_ProverkaNewForm.UseVisualStyleBackColor = true;
+            this.btn_ProverkaNewForm.Visible = false;
             this.btn_ProverkaNewForm.Click += new System.EventHandler(this.btn_ProverkaNewForm_Click);
             // 
             // Form1
@@ -159,7 +146,6 @@
             this.Controls.Add(this.btn_ProverkaNewForm);
             this.Controls.Add(this.Goest);
             this.Controls.Add(this.Home);
-            this.Controls.Add(this.Vid);
             this.Controls.Add(this.AccountG);
             this.Controls.Add(this.Vivod);
             this.Controls.Add(this.Money);
@@ -167,10 +153,8 @@
             this.Controls.Add(this.ColonaA);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Наруто";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.StartScreen);
-            ((System.ComponentModel.ISupportInitialize)(this.Vid)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ColonaA)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -183,7 +167,6 @@
         private System.Windows.Forms.Button Money;
         private System.Windows.Forms.RichTextBox Vivod;
         private System.Windows.Forms.TextBox AccountG;
-        private AxWMPLib.AxWindowsMediaPlayer Vid;
         private System.Windows.Forms.Label Home;
         private System.Windows.Forms.Label Goest;
         private System.Windows.Forms.PictureBox ColonaA;

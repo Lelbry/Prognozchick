@@ -131,3 +131,44 @@ D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\
 D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CopyComplete
 D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
 D:\Учёба\GItHub\All projects\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe.config
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.exe
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\StavluNaKonDushuMatery.pdb
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AngleSharp.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Leaf.xNet.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Buffers.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AngleSharp.xml
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Leaf.xNet.xml
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Buffers.xml
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.MSTSCLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.MSVidCtlLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.SystemMonitor.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\Interop.WMPLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSHTML.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSTSCLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.MSVidCtlLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.SystemMonitor.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\bin\Debug\AxInterop.WMPLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.AssemblyReference.cache
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.SuggestedBindingRedirects.cache
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.MSTSCLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.MSVidCtlLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.SystemMonitor.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\Interop.WMPLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSHTML.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSTSCLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.MSVidCtlLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.SystemMonitor.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\AxInterop.WMPLib.dll
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.ResolveComReference.cache
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Form1.resources
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.Properties.Resources.resources
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.GenerateResource.cache
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CoreCompileInputs.cache
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.csproj.CopyComplete
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.exe
+E:\SashaTime\Учёба\Програмирование и Науч деятельность\Prognozchick\StavluNaKonDushuMatery\obj\Debug\StavluNaKonDushuMatery.pdb

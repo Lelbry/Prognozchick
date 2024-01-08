@@ -45,8 +45,6 @@ namespace StavluNaKonDushuMatery
         }
         private void StartScreen(object sender, EventArgs e)
         {
-            Vid.Height = 400;
-            Vid.Width = 400;
             AccountH.Width = 300;
             AccountG.Width = 300;
             Home.Location = new Point(this.Width/4 - Home.Width/2, 0);
@@ -59,7 +57,6 @@ namespace StavluNaKonDushuMatery
             Vivod.Width = 775;
             Vivod.Height = 211;
             Vivod.Location = new Point(this.Width / 2 - Vivod.Width / 2, this.Height * 3 / 4 - Vivod.Height);
-            Vid.Location = new Point(this.Width / 2 - Vid.Width / 2, this.Height * 3 / 4 - Vivod.Height - Vid.Height);
             ColonaA.Location = new Point(0, 0);
             ColonaA.Width = this.Width;
             ColonaA.Height = this.Height;
@@ -67,7 +64,7 @@ namespace StavluNaKonDushuMatery
             Home.BackColor = Color.Transparent;
             Goest.Parent = ColonaA;
             Goest.BackColor = Color.Transparent;
-            ColonaA.Image = Properties.Resources.Человек_Нпс_пробник_1; //Через Resources добавили Картинку после чего записали данную строку 
+            //ColonaA.Image = Properties.Resources.Человек_Нпс_пробник_1; //Через Resources добавили Картинку после чего записали данную строку 
 
             //Menu.Parent = this;  //Настройка меню
             //Menu.Items.Add(mnuFile);
